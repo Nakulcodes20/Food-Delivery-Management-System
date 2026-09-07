@@ -32,3 +32,24 @@ Track order status
 Manage customer details
 Manage orders
 Assign delivery orders
+
+## New Features
+
+### Restaurant Search
+
+Customers can search for restaurants based on restaurant name or food category.
+
+### Food Ratings and Reviews
+
+Customers can rate food items and restaurants after receiving their orders.
+
+### Reports
+
+The system provides basic reports such as:
+
+* Total orders
+* Delivered orders
+* Cancelled orders
+* Popular food items
+* Restaurant performance
+
